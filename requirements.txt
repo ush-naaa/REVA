@@ -1,0 +1,16 @@
+# --- Core Data & Utilities ---
+pandas
+numpy
+python-dotenv
+joblib
+
+# --- Agent 1: Machine Learning (ANN) ---
+scikit-learn       # Handles MLPClassifier, scaling, and encoding
+
+# --- Agent 2: AI & RAG (Insights) ---
+groq
+chromadb
+sentence-transformers
+
+# --- Frontend Framework ---
+streamlit

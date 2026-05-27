@@ -1,0 +1,38 @@
+# --- Environment & Credentials ---
+.env
+.env.*
+
+# --- Virtual Environments ---
+venv/
+.venv/
+env/
+ENV/
+Active.activate
+deactivate.bat
+
+# --- Python Cache & Compiled Files ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Local Databases & Data Store ---
+# ChromaDB persistence directory
+market_db/
+
+# --- Large/Model Files (Optional depending on preferences) ---
+# If you prefer to train the model locally every time, uncomment the line below:
+# reva_ann_model_assets.joblib
+
+# --- OS & IDE Files ---
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,157 @@
+# Pakistan Real Estate Market Knowledge Base
+
+## Section 1: Location and Property Type Benchmarks
+In Bahria Town Karachi, Karachi, Houses are typically in the 'Medium' price tier. The historical average price is approximately 13,592,678 PKR with a median size of 8.0 Marla.
+In DHA Defence, Lahore, Houses are typically in the 'High' price tier. The historical average price is approximately 30,498,183 PKR with a median size of 10.0 Marla.
+In Bahria Town, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 17,637,559 PKR with a median size of 10.0 Marla.
+In Bahria Town Rawalpindi, Rawalpindi, Houses are typically in the 'Medium' price tier. The historical average price is approximately 12,592,098 PKR with a median size of 8.0 Marla.
+In DHA Defence, Karachi, Flats are typically in the 'Low' price tier. The historical average price is approximately 8,492,133 PKR with a median size of 4.9 Marla.
+In Bahria Town Karachi, Karachi, Flats are typically in the 'Low' price tier. The historical average price is approximately 7,733,792 PKR with a median size of 4.2 Marla.
+In Gulistan-e-Jauhar, Karachi, Flats are typically in the 'Low' price tier. The historical average price is approximately 6,806,305 PKR with a median size of 5.3 Marla.
+In Gulshan-e-Iqbal Town, Karachi, Flats are typically in the 'Low' price tier. The historical average price is approximately 8,286,771 PKR with a median size of 5.3 Marla.
+In DHA Defence, Karachi, Houses are typically in the 'Low' price tier. The historical average price is approximately 7,502,425 PKR with a median size of 20.0 Marla.
+In Johar Town, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 17,875,837 PKR with a median size of 5.0 Marla.
+In Bahria Town Rawalpindi, Rawalpindi, Flats are typically in the 'Low' price tier. The historical average price is approximately 2,879,078 PKR with a median size of 3.6 Marla.
+In Clifton, Karachi, Flats are typically in the 'Low' price tier. The historical average price is approximately 12,880,028 PKR with a median size of 8.0 Marla.
+In North Nazimabad, Karachi, Flats are typically in the 'Low' price tier. The historical average price is approximately 6,563,856 PKR with a median size of 4.7 Marla.
+In DHA Defence, Islamabad, Houses are typically in the 'Low' price tier. The historical average price is approximately 11,385,864 PKR with a median size of 11.0 Marla.
+In E-11, Islamabad, Flats are typically in the 'Low' price tier. The historical average price is approximately 2,325,784 PKR with a median size of 5.0 Marla.
+In Gadap Town, Karachi, Houses are typically in the 'Medium' price tier. The historical average price is approximately 10,491,249 PKR with a median size of 4.8 Marla.
+In G-13, Islamabad, Houses are typically in the 'Low' price tier. The historical average price is approximately 14,018,057 PKR with a median size of 6.5 Marla.
+In North Karachi, Karachi, Houses are typically in the 'Medium' price tier. The historical average price is approximately 14,352,117 PKR with a median size of 4.8 Marla.
+In Scheme 33, Karachi, Houses are typically in the 'Medium' price tier. The historical average price is approximately 17,952,064 PKR with a median size of 6.0 Marla.
+In State Life Housing Society, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 22,099,864 PKR with a median size of 10.0 Marla.
+In Adiala Road, Rawalpindi, Houses are typically in the 'Low' price tier. The historical average price is approximately 5,964,027 PKR with a median size of 5.0 Marla.
+In Cantt, Karachi, Flats are typically in the 'High' price tier. The historical average price is approximately 19,159,800 PKR with a median size of 11.4 Marla.
+In Gulistan-e-Jauhar, Karachi, Houses are typically in the 'High' price tier. The historical average price is approximately 21,801,474 PKR with a median size of 8.0 Marla.
+In DHA Defence, Islamabad, Flats are typically in the 'Low' price tier. The historical average price is approximately 4,858,521 PKR with a median size of 5.3 Marla.
+In DHA Defence, Karachi, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 161,793 PKR with a median size of 20.0 Marla.
+In Allama Iqbal Town, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 18,177,917 PKR with a median size of 10.0 Marla.
+In F-11, Islamabad, Flats are typically in the 'Low' price tier. The historical average price is approximately 7,176,612 PKR with a median size of 8.0 Marla.
+In Ghauri Town, Islamabad, Houses are typically in the 'Medium' price tier. The historical average price is approximately 7,204,542 PKR with a median size of 5.0 Marla.
+In Bahria Town, Islamabad, Houses are typically in the 'High' price tier. The historical average price is approximately 18,201,723 PKR with a median size of 10.0 Marla.
+In Wapda Town, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 20,027,135 PKR with a median size of 10.0 Marla.
+In North Karachi, Karachi, Flats are typically in the 'Low' price tier. The historical average price is approximately 4,097,888 PKR with a median size of 3.8 Marla.
+In Al Rehman Garden, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 7,758,588 PKR with a median size of 5.0 Marla.
+In Malir, Karachi, Houses are typically in the 'Medium' price tier. The historical average price is approximately 10,028,033 PKR with a median size of 4.8 Marla.
+In Gadap Town, Karachi, Flats are typically in the 'Low' price tier. The historical average price is approximately 2,918,372 PKR with a median size of 3.2 Marla.
+In G-11, Islamabad, Flats are typically in the 'Low' price tier. The historical average price is approximately 6,456,186 PKR with a median size of 4.9 Marla.
+In Scheme 33, Karachi, Flats are typically in the 'Low' price tier. The historical average price is approximately 6,963,699 PKR with a median size of 4.5 Marla.
+In Askari, Lahore, Flats are typically in the 'Medium' price tier. The historical average price is approximately 15,180,435 PKR with a median size of 10.0 Marla.
+In Bahria Orchard, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 19,490,470 PKR with a median size of 20.0 Marla.
+In F-7, Islamabad, Houses are typically in the 'Low' price tier. The historical average price is approximately 353,130 PKR with a median size of 24.0 Marla.
+In Jamshed Town, Karachi, Flats are typically in the 'Medium' price tier. The historical average price is approximately 12,294,803 PKR with a median size of 6.2 Marla.
+In DHA Defence, Islamabad, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 44,640 PKR with a median size of 20.0 Marla.
+In Bahria Town Rawalpindi, Rawalpindi, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 60,070 PKR with a median size of 10.0 Marla.
+In Askari, Lahore, Houses are typically in the 'High' price tier. The historical average price is approximately 27,847,664 PKR with a median size of 10.0 Marla.
+In Gulshan-e-Iqbal Town, Karachi, Houses are typically in the 'High' price tier. The historical average price is approximately 21,400,108 PKR with a median size of 8.9 Marla.
+In I-8, Islamabad, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 68,224 PKR with a median size of 12.0 Marla.
+In Gulshan-e-Iqbal Town, Karachi, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 6,633,060 PKR with a median size of 8.95 Marla.
+In F-8, Islamabad, Houses are typically in the 'Low' price tier. The historical average price is approximately 318,260 PKR with a median size of 24.0 Marla.
+In Paragon City, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 15,169,271 PKR with a median size of 5.0 Marla.
+In Bani Gala, Islamabad, Houses are typically in the 'Low' price tier. The historical average price is approximately 8,341,628 PKR with a median size of 10.0 Marla.
+In Gulistan-e-Jauhar, Karachi, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 6,750,804 PKR with a median size of 9.6 Marla.
+In Airport Housing Society, Rawalpindi, Houses are typically in the 'Medium' price tier. The historical average price is approximately 8,357,960 PKR with a median size of 5.0 Marla.
+In G-11, Islamabad, Houses are typically in the 'High' price tier. The historical average price is approximately 16,504,188 PKR with a median size of 7.0 Marla.
+In E-11, Islamabad, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 77,524 PKR with a median size of 20.0 Marla.
+In Soan Garden, Islamabad, Houses are typically in the 'Medium' price tier. The historical average price is approximately 10,616,849 PKR with a median size of 7.8 Marla.
+In E-11, Islamabad, Houses are typically in the 'Low' price tier. The historical average price is approximately 12,799,476 PKR with a median size of 10.0 Marla.
+In Nazimabad, Karachi, Flats are typically in the 'Low' price tier. The historical average price is approximately 6,343,024 PKR with a median size of 4.2 Marla.
+In E-11, Islamabad, Lower Portions are typically in the 'Low' price tier. The historical average price is approximately 70,966 PKR with a median size of 20.0 Marla.
+In DHA Defence, Karachi, Lower Portions are typically in the 'Low' price tier. The historical average price is approximately 122,294 PKR with a median size of 20.0 Marla.
+In Federal B Area, Karachi, Flats are typically in the 'Low' price tier. The historical average price is approximately 5,772,384 PKR with a median size of 3.6500000000000004 Marla.
+In I-8, Islamabad, Lower Portions are typically in the 'Low' price tier. The historical average price is approximately 66,734 PKR with a median size of 12.0 Marla.
+In F-10, Islamabad, Houses are typically in the 'Low' price tier. The historical average price is approximately 501,975 PKR with a median size of 20.0 Marla.
+In Nazimabad, Karachi, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 6,868,727 PKR with a median size of 4.9 Marla.
+In Gulraiz Housing Scheme, Rawalpindi, Houses are typically in the 'Medium' price tier. The historical average price is approximately 10,578,871 PKR with a median size of 6.0 Marla.
+In Pak Arab Housing Society, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 13,798,142 PKR with a median size of 5.0 Marla.
+In North Nazimabad, Karachi, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 8,638,912 PKR with a median size of 9.6 Marla.
+In Cantt, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 11,673,116 PKR with a median size of 5.0 Marla.
+In Gulistan-e-Jauhar, Karachi, Lower Portions are typically in the 'Low' price tier. The historical average price is approximately 5,959,851 PKR with a median size of 9.6 Marla.
+In Sabzazar Scheme, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 12,120,557 PKR with a median size of 5.0 Marla.
+In Korangi, Karachi, Houses are typically in the 'Low' price tier. The historical average price is approximately 9,347,745 PKR with a median size of 4.8 Marla.
+In G-15, Islamabad, Houses are typically in the 'Low' price tier. The historical average price is approximately 12,251,292 PKR with a median size of 8.0 Marla.
+In G-13, Islamabad, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 41,493 PKR with a median size of 10.0 Marla.
+In F-11, Islamabad, Houses are typically in the 'Low' price tier. The historical average price is approximately 3,746,949 PKR with a median size of 20.0 Marla.
+In G-13, Islamabad, Lower Portions are typically in the 'Low' price tier. The historical average price is approximately 38,132 PKR with a median size of 8.0 Marla.
+In G-15, Islamabad, Flats are typically in the 'Low' price tier. The historical average price is approximately 5,049,716 PKR with a median size of 4.4 Marla.
+In I-10, Islamabad, Houses are typically in the 'Medium' price tier. The historical average price is approximately 12,917,897 PKR with a median size of 6.0 Marla.
+In Samanabad, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 11,159,139 PKR with a median size of 3.5 Marla.
+In Bahria Town Rawalpindi, Rawalpindi, Lower Portions are typically in the 'Low' price tier. The historical average price is approximately 40,853 PKR with a median size of 10.0 Marla.
+In Eden, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 14,055,383 PKR with a median size of 5.0 Marla.
+In North Nazimabad, Karachi, Houses are typically in the 'High' price tier. The historical average price is approximately 22,261,552 PKR with a median size of 8.0 Marla.
+In Lake City, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 16,929,672 PKR with a median size of 10.0 Marla.
+In Military Accounts Housing Society, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 11,995,872 PKR with a median size of 6.0 Marla.
+In Federal B Area, Karachi, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 5,090,562 PKR with a median size of 4.8 Marla.
+In Chaklala Scheme, Rawalpindi, Houses are typically in the 'Low' price tier. The historical average price is approximately 9,061,530 PKR with a median size of 10.0 Marla.
+In Gulshan-e-Iqbal Town, Karachi, Lower Portions are typically in the 'Low' price tier. The historical average price is approximately 4,790,968 PKR with a median size of 9.6 Marla.
+In North Karachi, Karachi, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 3,398,538 PKR with a median size of 4.8 Marla.
+In F-11, Islamabad, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 87,176 PKR with a median size of 20.0 Marla.
+In G-11, Islamabad, Lower Portions are typically in the 'Low' price tier. The historical average price is approximately 41,605 PKR with a median size of 7.0 Marla.
+In Valencia Housing Society, Lahore, Houses are typically in the 'High' price tier. The historical average price is approximately 26,973,106 PKR with a median size of 11.0 Marla.
+In Gulberg, Islamabad, Flats are typically in the 'Low' price tier. The historical average price is approximately 5,787,940 PKR with a median size of 3.3 Marla.
+In DHA 11 Rahbar, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 12,863,519 PKR with a median size of 5.0 Marla.
+In G-11, Islamabad, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 127,822 PKR with a median size of 8.0 Marla.
+In F-6, Islamabad, Houses are typically in the 'Low' price tier. The historical average price is approximately 781,456 PKR with a median size of 22.0 Marla.
+In Korangi, Karachi, Flats are typically in the 'Low' price tier. The historical average price is approximately 2,280,874 PKR with a median size of 2.0 Marla.
+In Township, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 13,904,505 PKR with a median size of 5.0 Marla.
+In Gulshan-e-Ravi, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 17,588,532 PKR with a median size of 5.0 Marla.
+In CBR Town, Islamabad, Houses are typically in the 'Medium' price tier. The historical average price is approximately 15,239,592 PKR with a median size of 8.0 Marla.
+In PWD Housing Scheme, Islamabad, Houses are typically in the 'Medium' price tier. The historical average price is approximately 10,471,792 PKR with a median size of 10.0 Marla.
+In Gulraiz Housing Scheme, Rawalpindi, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 25,510 PKR with a median size of 7.0 Marla.
+In Lahore Medical Housing Society, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 10,442,647 PKR with a median size of 5.0 Marla.
+In I-10, Islamabad, Lower Portions are typically in the 'Low' price tier. The historical average price is approximately 34,520 PKR with a median size of 6.0 Marla.
+In I-10, Islamabad, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 29,206 PKR with a median size of 6.0 Marla.
+In Bhara kahu, Islamabad, Houses are typically in the 'Low' price tier. The historical average price is approximately 7,381,112 PKR with a median size of 6.0 Marla.
+In Jamshed Town, Karachi, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 16,102,105 PKR with a median size of 8.0 Marla.
+In Federal B Area, Karachi, Houses are typically in the 'Medium' price tier. The historical average price is approximately 18,361,521 PKR with a median size of 4.8 Marla.
+In Bahria Town, Lahore, Flats are typically in the 'Low' price tier. The historical average price is approximately 4,808,031 PKR with a median size of 2.3 Marla.
+In DHA Defence, Islamabad, Lower Portions are typically in the 'Low' price tier. The historical average price is approximately 53,438 PKR with a median size of 20.0 Marla.
+In Harbanspura, Lahore, Houses are typically in the 'Low' price tier. The historical average price is approximately 8,383,443 PKR with a median size of 3.5 Marla.
+In I-8, Islamabad, Houses are typically in the 'Low' price tier. The historical average price is approximately 5,325,438 PKR with a median size of 12.0 Marla.
+In Askari 14, Rawalpindi, Houses are typically in the 'Low' price tier. The historical average price is approximately 12,479,661 PKR with a median size of 10.0 Marla.
+In Canal Garden, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 11,576,619 PKR with a median size of 5.0 Marla.
+In Lalazaar Garden, Lahore, Houses are typically in the 'Low' price tier. The historical average price is approximately 7,053,916 PKR with a median size of 3.0 Marla.
+In Gulberg, Lahore, Houses are typically in the 'High' price tier. The historical average price is approximately 29,209,036 PKR with a median size of 14.0 Marla.
+In Gulshan Abad, Rawalpindi, Houses are typically in the 'Medium' price tier. The historical average price is approximately 11,594,834 PKR with a median size of 10.0 Marla.
+In B-17, Islamabad, Flats are typically in the 'Low' price tier. The historical average price is approximately 2,944,527 PKR with a median size of 3.7 Marla.
+In G-9, Islamabad, Houses are typically in the 'High' price tier. The historical average price is approximately 21,442,000 PKR with a median size of 7.0 Marla.
+In Tariq Gardens, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 19,860,377 PKR with a median size of 10.0 Marla.
+In F-10, Islamabad, Flats are typically in the 'Low' price tier. The historical average price is approximately 11,597,108 PKR with a median size of 7.8 Marla.
+In Punjab Coop Housing Society, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 17,979,870 PKR with a median size of 10.0 Marla.
+In Model Town, Lahore, Houses are typically in the 'High' price tier. The historical average price is approximately 27,309,567 PKR with a median size of 10.0 Marla.
+In FECHS, Islamabad, Houses are typically in the 'Medium' price tier. The historical average price is approximately 8,163,167 PKR with a median size of 7.0 Marla.
+In Garden West, Karachi, Flats are typically in the 'Low' price tier. The historical average price is approximately 7,507,597 PKR with a median size of 4.7 Marla.
+In Bahria Town, Islamabad, Flats are typically in the 'Low' price tier. The historical average price is approximately 4,886,094 PKR with a median size of 4.0 Marla.
+In Media Town, Rawalpindi, Houses are typically in the 'High' price tier. The historical average price is approximately 20,525,986 PKR with a median size of 12.0 Marla.
+In Jubilee Town, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 10,491,395 PKR with a median size of 5.0 Marla.
+In North Karachi, Karachi, Lower Portions are typically in the 'Low' price tier. The historical average price is approximately 1,604,411 PKR with a median size of 4.8 Marla.
+In Cantt, Karachi, Houses are typically in the 'Low' price tier. The historical average price is approximately 3,710,596 PKR with a median size of 17.1 Marla.
+In G-10, Islamabad, Houses are typically in the 'Low' price tier. The historical average price is approximately 14,369,125 PKR with a median size of 7.0 Marla.
+In B-17, Islamabad, Houses are typically in the 'Medium' price tier. The historical average price is approximately 13,287,084 PKR with a median size of 8.0 Marla.
+In Malir, Karachi, Flats are typically in the 'Low' price tier. The historical average price is approximately 6,574,929 PKR with a median size of 4.9 Marla.
+In F-11, Islamabad, Lower Portions are typically in the 'Low' price tier. The historical average price is approximately 88,264 PKR with a median size of 20.0 Marla.
+In Tajpura, Lahore, Houses are typically in the 'Low' price tier. The historical average price is approximately 5,787,050 PKR with a median size of 2.6 Marla.
+In PIA Housing Scheme, Lahore, Houses are typically in the 'High' price tier. The historical average price is approximately 23,913,768 PKR with a median size of 10.0 Marla.
+In Jinnah Avenue, Karachi, Flats are typically in the 'Medium' price tier. The historical average price is approximately 10,458,971 PKR with a median size of 7.3 Marla.
+In Bath Island, Karachi, Flats are typically in the 'Low' price tier. The historical average price is approximately 9,086,558 PKR with a median size of 8.9 Marla.
+In G-15, Islamabad, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 37,485 PKR with a median size of 10.0 Marla.
+In Punjab Govt Employees Society, Lahore, Houses are typically in the 'High' price tier. The historical average price is approximately 24,280,882 PKR with a median size of 10.0 Marla.
+In Khayaban-e-Amin, Lahore, Houses are typically in the 'Low' price tier. The historical average price is approximately 6,211,030 PKR with a median size of 5.0 Marla.
+In Clifton, Karachi, Houses are typically in the 'Low' price tier. The historical average price is approximately 1,442,424 PKR with a median size of 11.0 Marla.
+In Pakistan Town, Islamabad, Houses are typically in the 'Medium' price tier. The historical average price is approximately 11,068,237 PKR with a median size of 8.0 Marla.
+In F-10, Islamabad, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 82,061 PKR with a median size of 20.0 Marla.
+In New Karachi, Karachi, Houses are typically in the 'Medium' price tier. The historical average price is approximately 8,159,038 PKR with a median size of 3.2 Marla.
+In Diplomatic Enclave, Islamabad, Flats are typically in the 'Low' price tier. The historical average price is approximately 6,226,023 PKR with a median size of 7.1 Marla.
+In Ferozepur Road, Lahore, Houses are typically in the 'Low' price tier. The historical average price is approximately 5,336,047 PKR with a median size of 3.0 Marla.
+In Scheme 33, Karachi, Upper Portions are typically in the 'Low' price tier. The historical average price is approximately 5,170,508 PKR with a median size of 5.8 Marla.
+In Nishtar Colony, Lahore, Houses are typically in the 'Low' price tier. The historical average price is approximately 5,794,359 PKR with a median size of 3.0 Marla.
+In Mehmoodabad, Karachi, Flats are typically in the 'Low' price tier. The historical average price is approximately 3,291,933 PKR with a median size of 3.3 Marla.
+In GT Road, Lahore, Houses are typically in the 'Low' price tier. The historical average price is approximately 7,019,291 PKR with a median size of 4.0 Marla.
+In Canal Bank Housing Scheme, Lahore, Houses are typically in the 'Medium' price tier. The historical average price is approximately 12,796,457 PKR with a median size of 5.0 Marla.
+In Bin Qasim Town, Karachi, Houses are typically in the 'Low' price tier. The historical average price is approximately 8,904,095 PKR with a median size of 4.8 Marla.
+In Eden Valley, Faisalabad, Houses are typically in the 'Medium' price tier. The historical average price is approximately 12,877,184 PKR with a median size of 7.0 Marla.
+
+## Section 2: General Market Drivers
+- Properties in DHA and Bahria Town command a premium due to infrastructure.
+- 5 Marla houses are common for 'Low/Medium' tiers; 10+ Marla often hit 'High' tiers.
