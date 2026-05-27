@@ -89,7 +89,7 @@ Follow these steps to run Reva AI on your local environment:
 
 ### 1. Clone & Navigate
 ```bash
-git clone <your-repository-url>
+git clone 
 cd Proj-AI
 ```
 
